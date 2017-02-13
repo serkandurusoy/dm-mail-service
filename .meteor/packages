@@ -1,0 +1,10 @@
+meteor-base@1.0.4             # Packages every Meteor app needs to have
+standard-minifier-js@1.2.1    # JS minifier run for production mode
+es5-shim@4.6.15                # ECMAScript 5 compatibility for older browsers.
+ecmascript@0.6.1              # Enable ECMAScript2015+ syntax in app code
+underscore@1.0.10
+email@1.1.18
+simple:json-routes
+aldeed:simple-schema
+ddp-rate-limiter@1.0.6
+shell-server
